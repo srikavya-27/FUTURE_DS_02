@@ -1,0 +1,14 @@
+
+Customer Churn Analysis
+
+Key Insights:
+1.Customers with month-to-month contracts show the highest churn.
+2.Customers with higher monthly charges tend to churn more.
+3.Customers with lower tenure have higher churn probability.
+4.Gender does not significantly affect churn.
+
+Recommendations:
+•Provide long-term contract discounts.
+•Offer loyalty programs for long-term customers.
+•Reduce monthly charges for high-risk customers.
+•Improve onboarding experience for new customers.
